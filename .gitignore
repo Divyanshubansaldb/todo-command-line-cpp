@@ -1,0 +1,7 @@
+node_modules
+.vscode
+todo.txt
+done.txt
+package-lock.json
+todo.o
+todo.out
